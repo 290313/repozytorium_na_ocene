@@ -1,5 +1,5 @@
-Rozdział Trzeci
-===============
+Wyzwania i perspektywy rozwoju
+==============================
 
 Mimo wielu sukcesów i stabilnego wzrostu, polska gospodarka stoi przed szeregiem poważnych wyzwań strukturalnych, które zadecydują o jej konkurencyjności w nadchodzących dekadach.
 

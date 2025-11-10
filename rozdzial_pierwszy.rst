@@ -1,4 +1,4 @@
-Rozdzial Pierwszy
+Polska Gospodarka
 =================
 
 Polska gospodarka jest jedną z największych i najbardziej dynamicznych w Europie Środkowo-Wschodniej. Jako członek Unii Europejskiej od 2004 roku, kraj przeszedł głęboką transformację, przechodząc od gospodarki centralnie planowanej do w pełni funkcjonującej gospodarki rynkowej.

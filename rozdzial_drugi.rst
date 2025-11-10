@@ -1,6 +1,6 @@
-Rozdział Drugi
-==============
-
+Struktura i główne sektory gospodarki
+=====================================
+\
 Gospodarka Polski jest zdywersyfikowana, jednak jej struktura w ostatnich dekadach uległa znaczącym zmianom, typowym dla krajów rozwijających się i dążących do statusu gospodarki opartej na wiedzy.
 
 Sektor Usług
