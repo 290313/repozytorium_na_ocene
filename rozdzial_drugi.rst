@@ -28,10 +28,10 @@ Dominującą gałęzią jest przemysł motoryzacyjny. W Polsce zlokalizowane są
 
 Inne silne gałęzie to produkcja AGD (Polska jest jednym z największych producentów w Europie), przemysł chemiczny, meblarski (jeden ze światowych liderów eksportu mebli) oraz przetwórstwo spożywcze.
 
-.. image:: _static/mapa_polski_gospodarki.png
+.. image:: mapa_polski_gospodarki.png
    :align: center
    :width: 500px
-   :alt: Przykładowa mapa regionów przemysłowych Polski
+   :alt: Mapa Polski z podziałem na województwa oraz przypisanymi do nich państwami ze zbliżonym PKB
 
 Handel Zagraniczny
 ------------------
